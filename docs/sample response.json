@@ -1,0 +1,45 @@
+{
+  "data": {
+    "Business": {
+      "Id": "1",
+      "Name": "test",
+      "LogoPath": "",
+      "Email": "faizanaryan94@gmail.com",
+      "PhoneNumber": "",
+      "Address": "",
+      "PostCode": "",
+      "City": "",
+      "Country": "",
+      "BusinessStatusTypeId": 0,
+      "BusinessStatusType": ""
+    },
+    "Branch": {
+      "Id": "1",
+      "Name": "test_branch",
+      "Code": "",
+      "IsMain": false,
+      "Town": "",
+      "City": "",
+      "PostCode": "",
+      "IsDelivery": false,
+      "DeliveryInKm": 0,
+      "IsCollection": false,
+      "IsOnSite": false,
+      "DeliveryDuration": "",
+      "CollectionDuration": "",
+      "OnSiteDuration": "",
+      "BranchStatusType": 0
+    },
+    "User": {
+      "FirstName": "test",
+      "LastName": "",
+      "Email": "faizanaryan94@gmail.com",
+      "PhoneNumber": "123445",
+      "IsVerified": false,
+      "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTQxNDI5NjQsImlzcyI6ImhlbGxvLmFyYmVsbGFAZ21haWwuY29tIn0.cZ8rlcBx12GNuQo4oWRSCCfn7IDBLP3zbDm5n46n1VE",
+      "UserRoleId": "\u0002",
+      "UserRole": "Merchant"
+    }
+  },
+  "message": "login successful"
+}
